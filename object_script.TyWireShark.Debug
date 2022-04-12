@@ -1,0 +1,13 @@
+INPUT(
+./debug\capturethread.o
+./debug\dataflow.o
+./debug\datapackage.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\nictraffic.o
+./debug\qrc_src.o
+./debug\moc_capturethread.o
+./debug\moc_dataflow.o
+./debug\moc_mainwindow.o
+./debug\moc_nictraffic.o
+);

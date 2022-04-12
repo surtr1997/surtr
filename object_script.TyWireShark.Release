@@ -1,0 +1,13 @@
+INPUT(
+./release\capturethread.o
+./release\dataflow.o
+./release\datapackage.o
+./release\main.o
+./release\mainwindow.o
+./release\nictraffic.o
+./release\qrc_src.o
+./release\moc_capturethread.o
+./release\moc_dataflow.o
+./release\moc_mainwindow.o
+./release\moc_nictraffic.o
+);
